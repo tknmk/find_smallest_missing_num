@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 
 # Find the smallest missing number in a list
 def findMissingNo(arr, n):
