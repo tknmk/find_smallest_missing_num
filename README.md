@@ -2,7 +2,11 @@
 
 Input a list and find the smallest number that not including in the list.
 
-リストを受け取り、そのリストの中にない最小の数値を探します。 
+リストを受け取り、そのリストの中にない最小の数値を探します。
+
+This python script doesn't include negative values as return's value.
+
+このPythonスクリプトは、返り値にマイナス値は含みません。
 
 
 ### Usage
