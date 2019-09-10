@@ -15,4 +15,8 @@ This python script doesn't include negative values as return's value.
 2. Edit this code as you want to.
 3. run!
 
+#### output
 
+```
+The smallest positive missing number is  1
+```
